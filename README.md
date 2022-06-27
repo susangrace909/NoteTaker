@@ -18,8 +18,8 @@
 ## Repository Link
 
 - Repository can be found at:
-  [GitHub]()
-  [Live Site]()
+  [GitHub](https://github.com/susangrace909/NoteTaker.git)
+  [Live Site](https://susangrace909.github.io/NoteTaker/)
 
 ## Screenshot:
 
