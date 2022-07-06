@@ -17,10 +17,10 @@
 
 ## Repository Link
 
-- Repository can be found at:
-  [GitHub](https://github.com/susangrace909/NoteTaker.git)
-  [Live Site](https://susangrace909.github.io/NoteTaker/)
+- Repository can be found at: <br />
+  [GitHub](https://github.com/susangrace909/NoteTaker.git) <br />
+  [Live Site](https://note-taker-susan-pero.herokuapp.com/)
 
 ## Screenshot:
 
-![Screenshot of website](Screenshot.png)
+![Screenshot of website](NoteTaker.png)
